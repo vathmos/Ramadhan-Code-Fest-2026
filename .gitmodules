@@ -103,3 +103,6 @@
 [submodule "Scanner"]
 	path = Scanner
 	url = https://github.com/Damarcreative/Scanner.git
+[submodule "chess-matchmaking"]
+	path = chess-matchmaking
+	url = https://github.com/Nipaaaa1/chess-matchmaking.git
