@@ -106,3 +106,6 @@
 [submodule "chess-matchmaking"]
 	path = chess-matchmaking
 	url = https://github.com/Nipaaaa1/chess-matchmaking.git
+[submodule "tailwindOCD"]
+	path = tailwindOCD
+	url = https://github.com/suryami62/tailwindOCD.git
